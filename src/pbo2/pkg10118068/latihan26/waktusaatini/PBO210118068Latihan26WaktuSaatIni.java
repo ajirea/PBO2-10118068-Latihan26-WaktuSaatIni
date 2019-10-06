@@ -30,7 +30,7 @@ public class PBO210118068Latihan26WaktuSaatIni {
         
         // make date format object
         SimpleDateFormat dateFormat = new SimpleDateFormat(
-                "EEEE, d MMMMM Y H:m:s",
+                "EEEE, d MMM Y H:m:s",
                 new Locale("id")
         );
         
